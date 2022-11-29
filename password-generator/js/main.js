@@ -31,5 +31,6 @@ function allClear() {
   }
 }
 
+
 submit1.addEventListener("click", genPass);
 submit2.addEventListener("click", allClear);
